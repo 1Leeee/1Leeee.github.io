@@ -1,0 +1,42 @@
+.fondo-page1{
+    background-image: url(images/img-fondo1.svg);
+    height: auto;
+}
+
+.fondo-page3{
+    background-color: black ;
+    height: auto;
+}
+.fondo-page4{
+    background-color:white !important ;
+    height: auto;
+}
+.color-primario{
+    background-color: black !important;
+    color: white !important;
+}
+.espacio-superior{
+    margin-top: 1%;
+}
+.font-amarillo{
+    color: black  !important;
+}
+.font-blanco{
+    color: white  !important;
+}
+.color-link, .color-link:hover{
+    color: white;
+    text-decoration: none;
+}
+.neon{
+    font-size: 6em;
+    font-weight: 500;
+    color: #fff;
+    text-shadow: 0 0 5px #000000,
+    0 0 100px #000000;
+    padding: 50px;
+    letter-spacing: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 1s;
+}
